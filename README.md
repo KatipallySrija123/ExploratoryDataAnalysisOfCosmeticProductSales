@@ -4,3 +4,8 @@ Over a period of time from 2018 to till date, some of the amazon beauty products
 
 The Objective of our project is to help enterprises to accurately extract people’s opinions from large number of unstructured reviews  using new language models like BERT and help them enhance the customer experience avoiding customer attrition.
 
+The steps involved are:-
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Sentiment Analysis
